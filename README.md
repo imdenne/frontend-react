@@ -1,12 +1,12 @@
 # Como iniciar o projeto ?
 
-## COMO CLONAR ?
-`` git clone https://github.com/helxysa/frontend.git ``
 
 ## Dependencias
 ### `npm install`
 
 ## Como iniciar projeto ?
+
+### `npm start`
 
 Runs the app in the development mode.\
 
